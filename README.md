@@ -64,3 +64,5 @@ City Hotel accounted for 75% of cancellations (33,101), while Resort Hotel had 1
 - Room preference does not strongly impact cancellation decisions, implying other factors (e.g., pricing, policies, or external events) may play a bigger role.
 
 - Seasonal trends (especially mid-year) show higher cancellation risks, suggesting the need for targeted retention strategies during peak months.
+
+![Data](File/hotel.png)
